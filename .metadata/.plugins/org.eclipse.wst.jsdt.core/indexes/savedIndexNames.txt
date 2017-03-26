@@ -1,0 +1,4 @@
+INDEX VERSION 1.3+/home/ray/Git/My_test/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+25981260.index
+330450590.index
+1263101684.index
